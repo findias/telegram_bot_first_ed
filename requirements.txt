@@ -4,4 +4,4 @@ idna==3.7
 pyTelegramBotAPI==3.7.2
 requests==2.32.0
 six==1.15.0
-urllib3==1.26.19
+urllib3==2.5.0
